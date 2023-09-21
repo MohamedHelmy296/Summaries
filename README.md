@@ -31,3 +31,12 @@ I'm starting my journey in the Embedded Systems Diploma🌟 with ENG: Ahmed Abd 
         - Definition vs. Declaration
         - Constants
 
+  - *lec_3* 
+
+        - Error Types
+        - Constants and Literals
+        - Operators
+        - Bit Manipulation (Bitwise OR and Bitwise AND)
+        - Microcontroller Bit Manipulation Examples
+
+   
