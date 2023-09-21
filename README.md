@@ -20,3 +20,14 @@ I'm starting my journey in the Embedded Systems Diploma🌟 with ENG: Ahmed Abd 
        - C Programming Introduction
        - IDE Environment and Setup
        - Program Structure .c
+
+  - *lec_2*
+
+        - Escape Sequences
+        - C Basic Syntax
+        - Identifiers
+        - Data Types
+        - Format Specifiers
+        - Definition vs. Declaration
+        - Constants
+
