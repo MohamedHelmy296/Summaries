@@ -38,7 +38,17 @@ I'm starting my journey in the Embedded Systems Diploma🌟 with ENG: Ahmed Abd 
         - Operators
         - Bit Manipulation (Bitwise OR and Bitwise AND)
         - Microcontroller Bit Manipulation Examples
+  
+  - *lec_4* 
 
+        - Integer Promotion
+        - Bit Manipulation (Bitwise NOT and XOR)
+        - Logical and Arithmetic Shift
+        - Assignment Operator
+        - Ternary Operator
+        - Operators Precedence and Associativity
+        - Decision Making (if Condition, if else, if else if else)
+    
     ********************************************************************************************************************************************************************************************************
  
                                                           20 September 2023 
