@@ -42,11 +42,9 @@ I'm starting my journey in the Embedded Systems Diploma🌟 with ENG: Ahmed Abd 
   - *lec_4* 
 
         - Integer Promotion
-        - Bit Manipulation (Bitwise NOT and XOR)
         - Logical and Arithmetic Shift
         - Assignment Operator
-        - Ternary Operator
-        - Operators Precedence and Associativity
+        - Precedence and Associativity Operators
         - Decision Making (if Condition, if else, if else if else)
     
     ********************************************************************************************************************************************************************************************************
