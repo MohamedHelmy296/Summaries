@@ -46,7 +46,16 @@ I'm starting my journey in the Embedded Systems Diploma🌟 with ENG: Ahmed Abd 
         - Assignment Operator
         - Precedence and Associativity Operators
         - Decision Making (if Condition, if else, if else if else)
-    
+
+ - *lec_5*
+
+       - Revision on if Condition + Nested If
+       - goto Statement
+       - Switch Case + Nested Switch
+       - Looping (For, while, do-while) + Nested for
+       - Break and Continue Statement
+   
+
     ********************************************************************************************************************************************************************************************************
  
                                                           20 September 2023 
