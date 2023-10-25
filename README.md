@@ -54,7 +54,13 @@ I'm starting my journey in the Embedded Systems Diploma🌟 with ENG: Ahmed Abd 
        - Switch Case + Nested Switch
        - Looping (For, while, do-while) + Nested for
        - Break and Continue Statement
-   
+
+ - *lec_6*
+
+       - Functions
+       - Error Return Function
+       - Modules
+       - Multi File Approach
 
     ********************************************************************************************************************************************************************************************************
  
