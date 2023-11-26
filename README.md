@@ -62,6 +62,15 @@ I'm starting my journey in the Embedded Systems Diploma🌟 with ENG: Ahmed Abd 
        - Modules
        - Multi File Approach
 
+ - *lec_7*
+
+       - Casting (Implicit, Explicit)
+       - Memory Layout
+       - Storage Classes (Scope (Local & Global) & Lifetime)
+       - Storage Classes (auto, register, extern, static)
+       - Static with Global & Local Variables & Functions
+
+
     ********************************************************************************************************************************************************************************************************
  
                                                           20 September 2023 
